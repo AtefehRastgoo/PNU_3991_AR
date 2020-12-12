@@ -18,9 +18,9 @@
 ---
 [روش پژوهش یک پایان نامه](https://atefehrastgoo.github.io/ThesisForMethodology.pdf)
 ---
-[ارائه کتبی با لاتک] (Uploaded to PNU_3991_AR/Research-And-Presentation-Methods)
+[ارائه کتبی با لاتک] (Uploaded to AtefehRastgoo/PNU_3991_AR/Research-And-Presentation-Methods)
 ---
-[ارائه شفاهی] (PNU_3991_AR/Research-And-Presentation-Methods)
+[ارائه شفاهی] (Uploaded to AtefehRastgoo/PNU_3991_AR/Research-And-Presentation-Methods)
 ------------------
 
 
