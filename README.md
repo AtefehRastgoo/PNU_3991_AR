@@ -36,4 +36,88 @@
     1. [_BSc-27_حسین زندیه](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_01/27_%D8%AD%D8%B3%D9%8A%D9%86%20%D8%B2%D9%86%D8%AF%D9%8A%D9%87)
     1. [_BSc-00_](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_02/22_%D8%B9%D8%A7%D8%B7%D9%81%D9%87%20%D8%B1%D8%A7%D8%B3%D8%AA%DA%AF%D9%88)
     1. [_BSc-00_](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_02/22_%D8%B9%D8%A7%D8%B7%D9%81%D9%87%20%D8%B1%D8%A7%D8%B3%D8%AA%DA%AF%D9%88)
-    
+ 
+ ---
+ Winter Semester Courses 1399/2020
+ ---
+ دروس کارشناسی
+[روش پژوهش و ارائه02-1322010 ]
+<br>
+11151504_01 سيستم هاي چند رسانه اي
+<br>
+1115202_01 الكترونيك ديجيتال
+<br>
+1115211_01 طراحي مدارهاي واسط
+<br>
+1322010_02 روش پژوهش و ارايه
+<br>
+1322089_02 برنامه نويسي پيشرفته
+<br>
+1322113_01 اصول فناوري اطلاعات
+<br>
+
+---
+ [روش پژوهش و ارايه](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods#TOC)
+ ---
+ <a name="Course-Table"></a>
+## روز و ساعت ارائه دروس
+<div dir="ltr">
+<table style="width:100%">
+  <tr>
+    <th >16-18</th>
+    <th >14-16</th>
+    <th >12-14</th>
+    <th>10-12</th>
+    <th>8-10</th>
+    <th>روز</th>
+  </tr>
+  <tr>
+    <th ></th>
+    <th ><a  سيستم هاي چند رسانه اي</a></th>
+    <th ></th>
+    <th></th>
+    <th></th>
+    <th>شنبه</th>
+  </tr>
+   <tr>
+    <th ></th>
+    <th ></th>
+    <th><a  الكترونيك ديجيتال</a></th>
+    <th></th>
+    <th ></th>
+    <th>یک شنبه</th>
+  </tr>
+   <tr>
+     <th ><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods#TOC" >روش پژوهش و ارائه02-1322010</a> </th>
+     <th ></th>
+     <th></th>
+     <th></th>
+    <th ></th>   
+    <th>دوشنبه</th>
+  </tr>
+   <tr>
+    <th ></th>
+    <th ></th>
+    <th></th>
+    <th></th>
+    <th ></th>
+    <th>سه شنبه</th>
+  </tr>
+   <tr>
+    <th ></th>
+    <th ></th>
+    <th></th>
+    <th></th>
+     <th ></th>
+    <th>چهارشنبه</th>
+  </tr>
+   <tr>
+    <th ></th>
+     <th ></th>
+     <th ></th>
+     <th></th>
+    <th></th>
+    <th>پنج شنبه</th>
+  </tr>
+</table>
+</div>
