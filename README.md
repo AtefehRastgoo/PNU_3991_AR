@@ -21,6 +21,9 @@
 [ارائه کتبی با لاتک](https://github.com/AtefehRastgoo/PNU_3991_AR/blob/main/Research-And-Presentation-Methods/Latex.rar)
 ---
 [ارائه شفاهی] (Uploaded to AtefehRastgoo/PNU_3991_AR/Research-And-Presentation-Methods)
+---
+
+[انتخاب موضوع پروژه های کوچک] (https://atefehrastgoo.github.io/small-project-subject.pdf)
 ------------------
 
 
