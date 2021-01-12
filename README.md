@@ -23,7 +23,7 @@
 [ارائه شفاهی] (Uploaded to AtefehRastgoo/PNU_3991_AR/Research-And-Presentation-Methods)
 ---
 
-[انتخاب موضوع پروژه های کوچک] (https://atefehrastgoo.github.io/small-project-subject.pdf)
+[انتخاب موضوع پروژه های کوچک] (AtefehRastgoo/PNU_3991_AR/small-project-subject.pdf)
 ------------------
 
 
